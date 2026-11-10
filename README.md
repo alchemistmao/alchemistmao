@@ -1,6 +1,6 @@
 ## Mauro Orlando
 
-**Senior Software Architect · Forward Deployed AI Engineer.** 35+ years turning complex
+**Senior Software Architect · Forward Deployed AI Engineer.** 25+ years turning complex
 processes, legacy systems and fragmented data into production systems — from enterprise BI
 and Operations Research at Cognos, ILOG and IBM to today's AI agents and GenAI products.
 I design the architecture and I write the code.
