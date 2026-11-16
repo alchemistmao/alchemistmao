@@ -6,7 +6,7 @@ and Operations Research at Cognos, ILOG and IBM to today's AI agents and GenAI p
 I design the architecture and I write the code.
 
 **2nd place**, score 85.83, solo entry, at the
-[Dr.DocBench Challenge](https://drdocbench-challenge.abaka-pages.com/#leaderboard)
+[Dr.DocBench Challenge](https://www.linkedin.com/posts/emnlp2026-docinsights-documentai-ugcPost-7524211341646082048-AM-g/)
 (EMNLP 2026). Invited oral talk and award in Budapest, 29 October 2026.
 
 ### What I build now
